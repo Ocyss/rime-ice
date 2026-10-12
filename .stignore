@@ -1,0 +1,11 @@
+*.tmp
+.DS_Store
+
+*.userdb
+
+/build
+installation.yaml
+
+/.github
+/.git
+/.jj
